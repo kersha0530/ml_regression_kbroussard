@@ -15,7 +15,7 @@ Notebook I Reviewed: https://github.com/SchroderJ-pixel/ml-06-medical-cost/blob/
 
 
 ### 1. Clarity & Organization  
-Justin’s notebook is structured clearly, with clean code blocks, section labels, and informative comments. The reflections are present and thoughtfully written. The visualizations are well spaced and contribute meaningfully to the story. ✅
+Justin’s notebook is structured clearly, with clean code blocks, section labels, and informative comments. The reflections are present and thoughtfully written. The visualizations are well spaced and contribute meaningfully to the story. 
 
 
 
