@@ -1,8 +1,16 @@
 # Peer Review for: Justin
 
-**Reviewer**: Kersha Broussard  
-**Notebook Reviewed**: [regression_gjrich.ipynb](https://github.com/gjrich/ml_regression_gjrich/blob/master/regression_gjrich.ipynb)  
-**Reviewer's Repo**: [ml-06-medical-cost](https://github.com/SchroderJ-pixel/ml-06-medical-cost)
+Peer Review by: Kersha Broussard
+
+My GitHub Repository: https://github.com/kersha0530/ml_regression_kbroussard 
+
+My README.md: https://github.com/kersha0530/ml_regression_kbroussard/blob/main/README.md 
+
+My Notebook: https://github.com/kersha0530/ml_regression_kbroussard/blob/main/regression_kbroussard.ipynb
+
+My Peer Review: https://github.com/kersha0530/ml_regression_kbroussard/blob/main/data_folder/peer_review.md
+
+Notebook I Reviewed: https://github.com/SchroderJ-pixel/ml-06-medical-cost/blob/main/regression_schroder.ipynb
 
 
 
